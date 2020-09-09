@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.bb19c901.chunk.css",
+    "main.css": "/static/css/main.1f75ab1f.chunk.css",
     "main.js": "/static/js/main.f5c45538.chunk.js",
     "main.js.map": "/static/js/main.f5c45538.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c42cc245.js",
@@ -8,9 +8,9 @@
     "static/js/2.c82185ca.chunk.js": "/static/js/2.c82185ca.chunk.js",
     "static/js/2.c82185ca.chunk.js.map": "/static/js/2.c82185ca.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.8e2f34ab582056ef70657ac97bb7935a.js": "/precache-manifest.8e2f34ab582056ef70657ac97bb7935a.js",
+    "precache-manifest.33bafa883cfc758f90e24acea91fd31f.js": "/precache-manifest.33bafa883cfc758f90e24acea91fd31f.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.bb19c901.chunk.css.map": "/static/css/main.bb19c901.chunk.css.map",
+    "static/css/main.1f75ab1f.chunk.css.map": "/static/css/main.1f75ab1f.chunk.css.map",
     "static/js/2.c82185ca.chunk.js.LICENSE.txt": "/static/js/2.c82185ca.chunk.js.LICENSE.txt",
     "static/media/font.css": "/static/media/NotoSansKR-Thin.3c91862c.otf",
     "static/media/Main.css": "/static/media/instagram.752d4df0.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.c42cc245.js",
     "static/js/2.c82185ca.chunk.js",
-    "static/css/main.bb19c901.chunk.css",
+    "static/css/main.1f75ab1f.chunk.css",
     "static/js/main.f5c45538.chunk.js"
   ]
 }
